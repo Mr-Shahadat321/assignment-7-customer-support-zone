@@ -5,7 +5,7 @@ import React from "react";
 
 const Navbar = ({isOpen, setIsOpen}) => {
   return (
-    <div className="max-w-[1280px] mx-auto flex justify-between mt-2 px-4 py-2">
+    <div className="max-w-[1380px] mx-auto flex justify-between mt-2 px-4 py-2">
       <h1 className="font-bold text-[24px]">CS — Ticket System</h1>
 
       {/* logo */}
